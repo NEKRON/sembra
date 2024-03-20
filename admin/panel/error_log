@@ -1,0 +1,73 @@
+[18-Oct-2023 18:09:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 43
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Undefined variable: v in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 6
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 6
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 34
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 34
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 35
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 35
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 36
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 36
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 37
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 37
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 38
+[18-Oct-2023 18:10:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 38
+[18-Oct-2023 18:10:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/lvkpl14bz3vu/public_html/admin/panel/index.php:111
+Stack trace:
+#0 /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php(38): formatDate(NULL)
+#1 /home/lvkpl14bz3vu/public_html/admin/panel/index.php(122): include_once('/home/lvkpl14bz...')
+#2 {main}
+  thrown in /home/lvkpl14bz3vu/public_html/admin/panel/index.php on line 111
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Undefined variable: v in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 6
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 6
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 33
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 33
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 34
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 34
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 35
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 35
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 36
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 36
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 37
+[19-Oct-2023 16:37:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 37
+[19-Oct-2023 16:37:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/lvkpl14bz3vu/public_html/admin/panel/index.php:111
+Stack trace:
+#0 /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php(37): formatDate(NULL)
+#1 /home/lvkpl14bz3vu/public_html/admin/panel/index.php(122): include_once('/home/lvkpl14bz...')
+#2 {main}
+  thrown in /home/lvkpl14bz3vu/public_html/admin/panel/index.php on line 111
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Undefined variable: v in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 6
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 6
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 33
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 33
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 34
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 34
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 35
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 35
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 36
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 36
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 37
+[19-Oct-2023 16:37:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 37
+[19-Oct-2023 16:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/lvkpl14bz3vu/public_html/admin/panel/index.php:111
+Stack trace:
+#0 /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php(37): formatDate(NULL)
+#1 /home/lvkpl14bz3vu/public_html/admin/panel/index.php(122): include_once('/home/lvkpl14bz...')
+#2 {main}
+  thrown in /home/lvkpl14bz3vu/public_html/admin/panel/index.php on line 111
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Undefined variable: v in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 6
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 6
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 33
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 33
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 34
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 34
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 35
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 35
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 36
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 36
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Undefined variable: p in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 37
+[19-Oct-2023 17:54:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php on line 37
+[19-Oct-2023 17:54:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/lvkpl14bz3vu/public_html/admin/panel/index.php:111
+Stack trace:
+#0 /home/lvkpl14bz3vu/public_html/admin/panel/modules/detailsOrder.php(37): formatDate(NULL)
+#1 /home/lvkpl14bz3vu/public_html/admin/panel/index.php(122): include_once('/home/lvkpl14bz...')
+#2 {main}
+  thrown in /home/lvkpl14bz3vu/public_html/admin/panel/index.php on line 111
